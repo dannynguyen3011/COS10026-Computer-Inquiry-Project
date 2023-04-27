@@ -1,0 +1,51 @@
+<div id="background">
+    <div id="movebg">
+    </div>
+    <div id="page">
+      <div id="header">
+         <span id="connect"><a href="#" class="facebook"></a> <a href="#" class="twitter"></a> <a href="#" class="vimeo"></a></span> <span id="infos"><a href="login.php">Login</a>|<a href="signup.php">Register here !</a></span> <a href="index.php" id="logo"></a> <!-- /#logo -->
+        <ul id="navigation">
+          <li class="selected">
+            <a href="index.php">Home</a>
+          </li>
+          <li>
+            <a href="enhancement.php">Enhancement</a>
+          </li>
+          <li>
+            <a href="product.php">Shop</a>
+          </li>
+          <li>
+            <a href="enquire.php">Enquire</a>
+          </li>
+          <li>
+            <a href="contact-us.php">Contact</a>
+          </li>
+        </ul>
+      </div><!-- /#header -->
+      <div id="contents">
+        <div id="main">
+          <div id="adbox"><img src="images/sale_1.jpg" alt="sale_1"></div>
+        </div>
+        <div id="featured">
+          <ul>
+            <li><img src="images/shoes1.jpg" alt="shoes1"></li>
+            <li><img src="images/shoes2.jpg" alt="shoes2"></li>
+            <li><img src="images/shoes3.jpg" alt="shoes3"></li>
+            <li class="last"><img src="images/shoes4.jpg" alt="shoes4"></li>
+          </ul><a href="product.php" class="button">shop here!</a>
+          <a href="https://youtu.be/bzCPrMITWlI"><h1>Video</h1></a>
+        </div>
+      </div><!-- /#contents -->
+      <div id="footer">
+        <div id="description">
+          <div>
+            <a href="index.php" class="logo"></a>
+          </div>
+          <p>We're The Shoesroom from class COS10026.2 at Swinburne University. My team has 4 members who are Tran Hoang Hai Anh, Nguyen Tuan Duc, Nguyen Manh Dung and Nguyen Tran Yen Binh. Our group decided to create a web selling shoes. We built this website to provide customers another option for a shoes sale website since there is a high demand for the footwear business and there are now only a few websites selling shoes worldwide.</p>
+        </div>
+        <div class="navigation">
+          <a href="index.php">Home</a>| <a href="enhancement.php">Enhancement</a>|<a href="product.php">Shop</a>| <a href="enquire.php">Enquire</a>|  <a href="contact-us.php">Contact</a>
+        </div>
+      </div><!-- /#footer -->
+    </div><!-- /#page -->
+  </div><!-- /#background -->

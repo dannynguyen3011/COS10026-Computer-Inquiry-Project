@@ -1,0 +1,226 @@
+<div id="background">
+    <div id="movebg"></div>
+    <div id="page">
+      <div id="header">
+         <span id="connect"><a href="#" class="facebook"></a> <a href="#" class="twitter"></a> <a href="#" class="vimeo"></a></span> <span id="infos"><a href="login.php">Login</a>|<a href="signup.php">Register here !</a></span> <a href="index.php" id="logo"></a> <!-- /#logo -->
+        <ul id="navigation">
+          <li>
+            <a href="index.php">Home</a>
+          </li>
+          <li>
+            <a href="enhancement.php">Enhancement</a>
+          </li>
+          <li>
+            <a href="product.php">Shop</a>
+          </li>
+          <li>
+            <a href="enquire.php">Enquire</a>
+          </li>
+          <li class="selected">
+            <a href="contact-us.php">Contact</a>
+          </li>
+        </ul>
+      </div><!-- /#header -->
+      <div>
+        <div id="main"></div>
+        <div id="featured">
+          <h1>Personal information</h1>
+          <fieldset class="info_fieldset">
+            <figure>
+              <img src="images/pfp1.jpg" class="pfp" alt="pfp1">
+            </figure>
+            <dl id="info_haianh">
+              <dt>Name: Tran Hoang Hai Anh</dt>
+              <dd>Student ID: s104177513</dd>
+              <dd>Course: Computer Science</dd>
+              <dd>Email: 104177513@student.swin.edu.au</dd>
+              <dd>Hobies: Basketball, Gaming, Workout</dd>
+              <dd>Hometown: Hanoi</dd>
+            </dl>
+            <br>
+            <table class="table">
+              <tr>
+                <th>Time</th>
+                <th>Mon</th>
+                <th>Tue</th>
+                <th>Wed</th>
+                <th>Thu</th>
+                <th>Fri</th>
+                <th>Sat</th>
+                <th>Sun</th>
+              </tr>
+              <tr>
+                <td>Morning (8h-12h)</td>
+                <td>Vovinam</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+              </tr>
+              <tr>
+                <td>Afternoon (13h-17h)</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Networks and switching (TNE10006)</td>
+                <td>Computing technology inquiry project (COS10026)</td>
+                <td>Web development (COS10005)</td>
+                <td>Free</td>
+                <td>Free</td>
+              </tr>
+            </table>
+          </fieldset>
+          <fieldset class="info_fieldset">
+            <figure>
+              <img src="images/pfp2.jpg" class="pfp" alt="pfp2">
+            </figure>
+            <dl id="info_dung">
+              <dt>Name: Nguyen Manh Dung</dt>
+              <dd>Student ID: s104181789</dd>
+              <dd>Course: Computer Science</dd>
+              <dd>Email: 104181789@student.swin.edu.au</dd>
+              <dd>Hobies: Basketball, Reading book, Listening music</dd>
+              <dd>Hometown: Hanoi</dd>
+            </dl>
+            <br>
+            <table class="table">
+              <tr>
+                <th>Time</th>
+                <th>Mon</th>
+                <th>Tue</th>
+                <th>Wed</th>
+                <th>Thu</th>
+                <th>Fri</th>
+                <th>Sat</th>
+                <th>Sun</th>
+              </tr>
+              <tr>
+                <td>Morning (8h-12h)</td>
+                <td>Vovinam</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+              </tr>
+              <tr>
+                <td>Afternoon (13h-17h)</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Networks and switching (TNE10006)</td>
+                <td>Computing technology inquiry project (COS10026)</td>
+                <td>Web development (COS10005)</td>
+                <td>Free</td>
+                <td>Free</td>
+              </tr>
+            </table>
+          </fieldset>
+          <fieldset class="info_fieldset">
+            <figure>
+              <img src="images/pfp3.jpg" class="pfp" alt="pfp3">
+            </figure>
+            <dl id="info_binh">
+              <dt>Name: Nguyen Tran Yen Binh</dt>
+              <dd>Student ID: s104188492</dd>
+              <dd>Course: Computer Science</dd>
+              <dd>Email: 104188492@student.swin.edu.au</dd>
+              <dd>Hobies: Coding, Studying</dd>
+              <dd>Hometown: Hanoi</dd>
+            </dl>
+            <br>
+            <table class="table">
+              <tr>
+                <th>Time</th>
+                <th>Mon</th>
+                <th>Tue</th>
+                <th>Wed</th>
+                <th>Thu</th>
+                <th>Fri</th>
+                <th>Sat</th>
+                <th>Sun</th>
+              </tr>
+              <tr>
+                <td>Morning (8h-12h)</td>
+                <td>Free</td>
+                <td>GCED</td>
+                <td>GCED</td>
+                <td>GCED</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+              </tr>
+              <tr>
+                <td>Afternoon (13h-17h)</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Networks and switching (TNE10006)</td>
+                <td>Computing technology inquiry project (COS10026)</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+              </tr>
+            </table>
+          </fieldset>
+          <fieldset class="info_fieldset">
+            <figure>
+              <img src="images/pfp4.jpg" class="pfp" alt="pfp4">
+            </figure>
+            <dl id="info_duc">
+              <dt>Name: Nguyen Tuan Duc</dt>
+              <dd>Student ID: s104189440</dd>
+              <dd>Course: Computer Science</dd>
+              <dd>Email: 104189440@student.swin.edu.au</dd>
+              <dd>Hobies: Coding, Studying</dd>
+              <dd>Hometown: Hanoi</dd>
+            </dl>
+            <br>
+            <table class="table">
+              <tr>
+                <th>Time</th>
+                <th>Mon</th>
+                <th>Tue</th>
+                <th>Wed</th>
+                <th>Thu</th>
+                <th>Fri</th>
+                <th>Sat</th>
+                <th>Sun</th>
+              </tr>
+              <tr>
+                <td>Morning (8h-12h)</td>
+                <td>Free</td>
+                <td>Networks and switching (TNE10006)</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+                <td>Free</td>
+              </tr>
+              <tr>
+                <td>Afternoon (13h-17h)</td>
+                <td>GCED</td>
+                <td>Free</td>
+                <td>GCED</td>
+                <td>Computing technology inquiry project (COS10026)</td>
+                <td>GCED</td>
+                <td>Free</td>
+                <td>Free</td>
+              </tr>
+            </table>
+          </fieldset>
+        </div><!-- /#contents -->
+        <div id="footer">
+          <div id="description">
+            <div>
+              <a href="index.php" class="logo"></a>
+            </div>
+            <p>We're The Shoesroom from class COS10026.2 at Swinburne University. My team has 4 members who are Tran Hoang Hai Anh, Nguyen Tuan Duc, Nguyen Manh Dung and Nguyen Tran Yen Binh. Our group decided to create a web selling shoes. We built this website to provide customers another option for a shoes sale website since there is a high demand for the footwear business and there are now only a few websites selling shoes worldwide.</p>
+          </div>
+          <div class="navigation">
+            <a href="index.php">Home</a>| <a href="enhancement.php">Enhancement</a>| <a href="product.php">Shop</a>|<a href="enquire.php">Enquire</a>|  <a href="contact-us.php">Contact</a>
+          </div>
+        </div><!-- /#footer -->
+      </div><!-- /#page -->
+    </div><!-- /#background -->
+  </div>
